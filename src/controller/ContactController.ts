@@ -5,7 +5,7 @@ import Contact from '../model/ContactModel';
 import ContactDTO from './DTO/ContactDTO'
 
 
-const ContactController = async (req: Request, res: Response) : void => {
+const ContactController = async (req: Request, res: Response) : Promise<void> => {
   const data = req.body;
   try {
     const contact: HydratedDocument<IContact>  = new Contact(data);
