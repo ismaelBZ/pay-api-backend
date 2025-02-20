@@ -1,6 +1,6 @@
-# Pay API - 
+# Pay API - Connecting accounts to apps
 
-🛍  A payment API website focused on customer acquisition 
+🥨  This is an aws serverless service that recive interested customers from front-end and persists them on database.  
 
 [🔗 Go to PayAPI website](https://ismaelbz.github.io/pay-api/) 
 
@@ -8,10 +8,11 @@
 ## 🚀 Technologies
 
 - Vite
-- JavaScript
-- React.js
-- Tailwind CSS
-- Axios
+- Node.js
+- TypeScript
+- Express
+- Cors
+- Mongose
 
 
 ## 🛠️ Installation
@@ -40,7 +41,7 @@ Using **npm**: `npm install`
 
 Using **yarn**: `yarn install`
 
-### Running on development server
+### Running on development instance
 
 After install the packages, execute:
 
