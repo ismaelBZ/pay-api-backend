@@ -30,7 +30,7 @@
 If you prefer git:
 
 ```
-git clone git@github.com:ismaelBZ/pay-api.git`
+git clone git@github.com:ismaelBZ/pay-api-backend.git`
 ```
 
 ### Install dependencies:
