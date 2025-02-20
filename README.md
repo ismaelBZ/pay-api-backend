@@ -12,7 +12,7 @@
 - TypeScript
 - Express
 - Cors
-- Mongose
+- Mongoose
 
 
 ## 🛠️ Installation
